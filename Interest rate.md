@@ -12,7 +12,7 @@ Some sectors do benefit from interest rate hikes. One sector that tends to benef
 
 Lower rates **encourage lending and spending** by consumers and businesses.
 
-##Monetary Tools
+## Monetary Tools
 
 Discount (Interest) rate
 
@@ -22,7 +22,7 @@ Open market operations
 
 Interest on Reserves
 
-##Meet
+## Meet
 
 Mid Nov. 2019
 
