@@ -12,7 +12,7 @@ Some sectors do benefit from interest rate hikes. One sector that tends to benef
 
 Lower rates **encourage lending and spending** by consumers and businesses.
 
-##Monetary Tools
+## Monetary Tools
 
 Discount (Interest) rate
 
@@ -22,7 +22,7 @@ Open market operations
 
 Interest on Reserves
 
-##Meet
+## Meet
 
 Mid Nov. 2019
 
@@ -34,7 +34,7 @@ The central bank said Mr. Powell’s comments to Mr. Trump were consistent with 
 
 ## Third Cut in 2019
 
-![Fed funds rate](./Fed Fund Rate.png)
+![Fed funds rate](./Fed%20Fund%20Rate.png)
 
 This week’s decision to lower rates was intended to “provide some insurance **against ongoing risks**,” Mr. Powell said, adding that the United States economy remains strong. “Over all, we see the economy as having been resilient to the winds that have been blowing this year,” he said.
 
