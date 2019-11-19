@@ -1,6 +1,6 @@
 # Other Topics
 
-##Retail
+## Retail
 
 [U.S. Retail Sales Rebounded in October](<https://www.wsj.com/articles/u-s-retail-sales-rebounded-in-october-11573824926?mod=searchresults&page=1&pos=9>)
 
