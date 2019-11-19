@@ -1,4 +1,4 @@
-#Trade War
+# Trade War
 
 ## Timeline
 
@@ -33,7 +33,7 @@ open investment
 
 ## Reasons 
 
-###Cycle
+### Cycle
 
 10 years weak, 6 years strong
 
@@ -51,7 +51,7 @@ then weak though Janpan
 
 2015 till now South China Sea Hong Kong Problem and Trade War
 
-###Good timing
+### Good timing
 
 14 QE $\to$ FX Reserve increasing
 
@@ -75,7 +75,7 @@ foreign country retaliate $\to$ more cost, export producer down, economic growth
 
 ## Consumers
 
-###US
+### US
 
 China is global supply chain, biggest manufacting hub
 
@@ -87,7 +87,7 @@ Hurt may not feel but exist to America consumers
 
 Cost $\to$ producer $\to$ consumer need time to feel the war during supply chain
 
-###China
+### China
 
 For China, the same problem 0.55 vs 1 at least
 
