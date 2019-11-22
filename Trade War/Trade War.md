@@ -93,6 +93,14 @@ For China, the same problem 0.55 vs 1 at least
 
 decrease in some province, but not all
 
+## U.S. Stocks Waver
+
+China’s top leader also said his country has “been working actively to try not to have a trade war,” according to reports from Reuters and Bloomberg News on comments made at a forum in Beijing. China wants to work toward an initial deal on the basis of “mutual respect and equality,” he said in a rare set of remarks about the trade negotiations between the world’s two largest economies.
+
+The comments led to some speculation that the U.S. and China may aim at striking a trade deal early next year. Investors are reconciling themselves to an accord not materializing by the end of 2019 after conflicting signals on the progress of the negotiations this week dampened market sentiment and weighed on global stocks.
+
+![stockwave](./stockwave.png)
+
 ## Conclusion
 
 It's good time for trade war, but not good results for United States (till now)
